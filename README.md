@@ -39,8 +39,8 @@
 ⮚	Press enter to set the size.
 
 ## OUTPUT:
+<img width="2100" height="1500" alt="Black Gold Elegant Sparkly Christmas Party Virtual Invitation" src="https://github.com/user-attachments/assets/8323d16e-2a2f-4890-9e9e-e063781f4dca" />
 
-<img width="1126" height="804" alt="Screenshot 2025-11-21 150653" src="https://github.com/user-attachments/assets/fd161404-902a-43fd-a8d3-0b4cba968664" />
 
 ## RESULT:
 
