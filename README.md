@@ -6,16 +6,13 @@
 
 ## EDITING
 
-
 ⮚	Open your project file and create a duplicate.
 
 ⮚	Crop the image using crop tool.
 
 ⮚	Change the image size using canvas technique.
 
-
 ## BACK GROUND CHANGING
-
 
 ⮚	Select the area to change the back ground using magic wand tool.
 
@@ -25,9 +22,7 @@
 
 ⮚	Using selection tool, move the back ground.
 
-
 ## CHANGING COLOUR
-
 
 ⮚	Select the area using Lasso tool .
 
@@ -35,12 +30,7 @@
 
 ⮚	Change the colour using RGB mode.
 
-
-
-
-
 ## CHANGING THE SIZE
-
 
 ⮚	Select your image and go to edit and select transform.
 
@@ -48,6 +38,10 @@
 
 ⮚	Press enter to set the size.
 
-
-
 ## OUTPUT:
+
+<img width="1126" height="804" alt="Screenshot 2025-11-21 150653" src="https://github.com/user-attachments/assets/fd161404-902a-43fd-a8d3-0b4cba968664" />
+
+## RESULT:
+
+Thus to edit an image using an image editing software completed successfully.
